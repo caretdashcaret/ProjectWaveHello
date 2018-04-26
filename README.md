@@ -1,16 +1,12 @@
 ProjectWaveHello
 ================
 
-the designs of components to help [Andru](http://www.powerbygen.com/Andru--Android-Robot-USB-Cell-Phone-Charger_p_8.html), a cute little USB charger, to wave his arms
-
-[![project wave hello](http://i1115.photobucket.com/albums/k552/caretdashcaret/2014-06/P6200325_zps03029f40.jpg)](http://caretdashcaret.wordpress.com/2014/06/22/project-wave-hello-the-story-of-getting-an-android-usb-charger-to-wave-his-arms/)
+the designs of components to help [Andru](http://www.powerbygen.com/Andru--Android-Robot-USB-Cell-Phone-Charger_p_8.html), a cute little USB charger, to wave his arms.
 
 Credits
 -------------
 
 Created by Jenny - [CaretDashCaret](http://caretdashcaret.wordpress.com/)
-
-[![Jenny](http://i1115.photobucket.com/albums/k552/caretdashcaret/2014-03/About5_zps7f79c497.jpg)](http://caretdashcaret.wordpress.com/)
 
 License
 -------------
